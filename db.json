@@ -1,0 +1,34 @@
+{
+  "Student": [
+    {
+      "name": "Drag",
+      "lastname": "Overlord",
+      "Phone": "996702238138",
+      "id": 1
+    },
+    {
+      "name": "Drag",
+      "lastname": "Overlord",
+      "Phone": "3213123",
+      "id": 2
+    },
+    {
+      "name": "Drag",
+      "lastname": "Overlord",
+      "Phone": "3123123",
+      "id": 3
+    },
+    {
+      "name": "Drag",
+      "lastname": "Overlord",
+      "Phone": "3123123",
+      "id": 4
+    },
+    {
+      "name": "Drag",
+      "lastname": "Overlord",
+      "Phone": "23132",
+      "id": 5
+    }
+  ]
+}
